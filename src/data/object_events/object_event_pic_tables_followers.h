@@ -6727,4 +6727,49 @@ static const struct SpriteFrameImage sPicTable_Pecharunt[] = {
 };
 #endif //P_FAMILY_PECHARUNT
 
+#if P_FAMILY_RACCOONONE
+static const struct SpriteFrameImage sPicTable_Raccoonone[] = {
+    overworld_ascending_frames(gObjectEventPic_Raccoonone, 4, 4),
+};
+static const struct SpriteFrameImage sPicTable_Raccoontwo[] = {
+    overworld_ascending_frames(gObjectEventPic_Raccoontwo, 4, 4),
+};
+static const struct SpriteFrameImage sPicTable_Raccoonthree[] = {
+    overworld_ascending_frames(gObjectEventPic_Raccoonthree, 4, 4),
+};
+
+#endif //P_FAMILY_RACCOONONE
+
+#if P_FAMILY_POSSUMONE
+static const struct SpriteFrameImage sPicTable_Possumone[] = {
+    overworld_ascending_frames(gObjectEventPic_Possumone, 4, 4),
+};
+static const struct SpriteFrameImage sPicTable_Possumtwo[] = {
+    overworld_ascending_frames(gObjectEventPic_Possumtwo, 4, 4),
+};
+static const struct SpriteFrameImage sPicTable_Possumthree[] = {
+    overworld_ascending_frames(gObjectEventPic_Possumthree, 4, 4),
+};
+
+#endif //P_FAMILY_POSSUMONE
+
+#if P_FAMILY_SNAKEONE
+static const struct SpriteFrameImage sPicTable_Snakeone[] = {
+    overworld_ascending_frames(gObjectEventPic_Snakeone, 4, 4),
+};
+static const struct SpriteFrameImage sPicTable_Snaketwo[] = {
+    overworld_ascending_frames(gObjectEventPic_Snaketwo, 4, 4),
+};
+static const struct SpriteFrameImage sPicTable_Snakethree[] = {
+    overworld_ascending_frames(gObjectEventPic_Snakethree, 4, 4),
+};
+
+#endif //P_FAMILY_SNAKEONE
+
+#if P_FAMILY_SALYNX
+static const struct SpriteFrameImage sPicTable_Salynx[] = {
+    overworld_ascending_frames(gObjectEventPic_Salynx, 4, 4),
+};
+#endif //P_FAMILY_SALYNX
+
 #endif //OW_POKEMON_OBJECT_EVENTS

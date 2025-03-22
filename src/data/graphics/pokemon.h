@@ -26732,6 +26732,116 @@ const u32 gObjectEventPic_Substitute[] = INCBIN_COMP("graphics/pokemon/question_
 #endif //OW_POKEMON_OBJECT_EVENTS
 #endif //P_FAMILY_PECHARUNT
 
+#if P_FAMILY_RACCOONONE
+    const u32 gObjectEventPic_Raccoonone[] = INCBIN_COMP("graphics/pokemon/raccoonone/overworld.4bpp");
+    const u32 gMonFrontPic_Raccoonone[] = INCBIN_U32("graphics/pokemon/raccoonone/anim_front.4bpp.lz");
+    const u32 gMonBackPic_Raccoonone[] = INCBIN_U32("graphics/pokemon/raccoonone/back.4bpp.lz");
+    const u32 gMonPalette_Raccoonone[] = INCBIN_U32("graphics/pokemon/raccoonone/normal.gbapal.lz");
+    const u32 gMonShinyPalette_Raccoonone[] = INCBIN_U32("graphics/pokemon/raccoonone/shiny.gbapal.lz");
+    const u8 gMonIcon_Raccoonone[] = INCBIN_U8("graphics/pokemon/raccoonone/icon.4bpp");
+    const u8 gMonFootprint_Raccoonone[] = INCBIN_U8("graphics/pokemon/raccoonone/footprint.1bpp");
+    const u32 gOverworldPalette_Raccoonone[] = INCBIN_U32("graphics/pokemon/raccoonone/overworld_normal.gbapal.lz");
+    const u32 gShinyOverworldPalette_Raccoonone[] = INCBIN_U32("graphics/pokemon/raccoonone/overworld_shiny.gbapal.lz");
+
+    const u32 gObjectEventPic_Raccoontwo[] = INCBIN_COMP("graphics/pokemon/raccoontwo/overworld.4bpp");
+    const u32 gMonFrontPic_Raccoontwo[] = INCBIN_U32("graphics/pokemon/raccoontwo/anim_front.4bpp.lz");
+    const u32 gMonBackPic_Raccoontwo[] = INCBIN_U32("graphics/pokemon/raccoontwo/back.4bpp.lz");
+    const u32 gMonPalette_Raccoontwo[] = INCBIN_U32("graphics/pokemon/raccoontwo/normal.gbapal.lz");
+    const u32 gMonShinyPalette_Raccoontwo[] = INCBIN_U32("graphics/pokemon/raccoontwo/shiny.gbapal.lz");
+    const u8 gMonIcon_Raccoontwo[] = INCBIN_U8("graphics/pokemon/raccoontwo/icon.4bpp");
+    const u8 gMonFootprint_Raccoontwo[] = INCBIN_U8("graphics/pokemon/raccoontwo/footprint.1bpp");
+    const u32 gOverworldPalette_Raccoontwo[] = INCBIN_U32("graphics/pokemon/raccoontwo/overworld_normal.gbapal.lz");
+    const u32 gShinyOverworldPalette_Raccoontwo[] = INCBIN_U32("graphics/pokemon/raccoontwo/overworld_shiny.gbapal.lz");
+
+    const u32 gObjectEventPic_Raccoonthree[] = INCBIN_COMP("graphics/pokemon/raccoonthree/overworld.4bpp");
+    const u32 gMonFrontPic_Raccoonthree[] = INCBIN_U32("graphics/pokemon/raccoonthree/anim_front.4bpp.lz");
+    const u32 gMonBackPic_Raccoonthree[] = INCBIN_U32("graphics/pokemon/raccoonthree/back.4bpp.lz");
+    const u32 gMonPalette_Raccoonthree[] = INCBIN_U32("graphics/pokemon/raccoonthree/normal.gbapal.lz");
+    const u32 gMonShinyPalette_Raccoonthree[] = INCBIN_U32("graphics/pokemon/raccoonthree/shiny.gbapal.lz");
+    const u8 gMonIcon_Raccoonthree[] = INCBIN_U8("graphics/pokemon/raccoonthree/icon.4bpp");
+    const u8 gMonFootprint_Raccoonthree[] = INCBIN_U8("graphics/pokemon/raccoonthree/footprint.1bpp");
+    const u32 gOverworldPalette_Raccoonthree[] = INCBIN_U32("graphics/pokemon/raccoonthree/overworld_normal.gbapal.lz");
+    const u32 gShinyOverworldPalette_Raccoonthree[] = INCBIN_U32("graphics/pokemon/raccoonthree/overworld_shiny.gbapal.lz");
+#endif
+
+#if P_FAMILY_POSSUMONE
+    const u32 gObjectEventPic_Possumone[] = INCBIN_COMP("graphics/pokemon/possumone/overworld.4bpp");
+    const u32 gMonFrontPic_Possumone[] = INCBIN_U32("graphics/pokemon/possumone/anim_front.4bpp.lz");
+    const u32 gMonBackPic_Possumone[] = INCBIN_U32("graphics/pokemon/possumone/back.4bpp.lz");
+    const u32 gMonPalette_Possumone[] = INCBIN_U32("graphics/pokemon/possumone/normal.gbapal.lz");
+    const u32 gMonShinyPalette_Possumone[] = INCBIN_U32("graphics/pokemon/possumone/shiny.gbapal.lz");
+    const u8 gMonIcon_Possumone[] = INCBIN_U8("graphics/pokemon/possumone/icon.4bpp");
+    const u8 gMonFootprint_Possumone[] = INCBIN_U8("graphics/pokemon/possumone/footprint.1bpp");
+    const u32 gOverworldPalette_Possumone[] = INCBIN_U32("graphics/pokemon/possumone/overworld_normal.gbapal.lz");
+    const u32 gShinyOverworldPalette_Possumone[] = INCBIN_U32("graphics/pokemon/possumone/overworld_shiny.gbapal.lz");
+
+    const u32 gObjectEventPic_Possumtwo[] = INCBIN_COMP("graphics/pokemon/possumtwo/overworld.4bpp");
+    const u32 gMonFrontPic_Possumtwo[] = INCBIN_U32("graphics/pokemon/possumtwo/anim_front.4bpp.lz");
+    const u32 gMonBackPic_Possumtwo[] = INCBIN_U32("graphics/pokemon/possumtwo/back.4bpp.lz");
+    const u32 gMonPalette_Possumtwo[] = INCBIN_U32("graphics/pokemon/possumtwo/normal.gbapal.lz");
+    const u32 gMonShinyPalette_Possumtwo[] = INCBIN_U32("graphics/pokemon/possumtwo/shiny.gbapal.lz");
+    const u8 gMonIcon_Possumtwo[] = INCBIN_U8("graphics/pokemon/possumtwo/icon.4bpp");
+    const u8 gMonFootprint_Possumtwo[] = INCBIN_U8("graphics/pokemon/possumtwo/footprint.1bpp");
+    const u32 gOverworldPalette_Possumtwo[] = INCBIN_U32("graphics/pokemon/possumtwo/overworld_normal.gbapal.lz");
+    const u32 gShinyOverworldPalette_Possumtwo[] = INCBIN_U32("graphics/pokemon/possumtwo/overworld_shiny.gbapal.lz");
+
+    const u32 gObjectEventPic_Possumthree[] = INCBIN_COMP("graphics/pokemon/possumthree/overworld.4bpp");
+    const u32 gMonFrontPic_Possumthree[] = INCBIN_U32("graphics/pokemon/possumthree/anim_front.4bpp.lz");
+    const u32 gMonBackPic_Possumthree[] = INCBIN_U32("graphics/pokemon/possumthree/back.4bpp.lz");
+    const u32 gMonPalette_Possumthree[] = INCBIN_U32("graphics/pokemon/possumthree/normal.gbapal.lz");
+    const u32 gMonShinyPalette_Possumthree[] = INCBIN_U32("graphics/pokemon/possumthree/shiny.gbapal.lz");
+    const u8 gMonIcon_Possumthree[] = INCBIN_U8("graphics/pokemon/possumthree/icon.4bpp");
+    const u8 gMonFootprint_Possumthree[] = INCBIN_U8("graphics/pokemon/possumthree/footprint.1bpp");
+    const u32 gOverworldPalette_Possumthree[] = INCBIN_U32("graphics/pokemon/possumthree/overworld_normal.gbapal.lz");
+    const u32 gShinyOverworldPalette_Possumthree[] = INCBIN_U32("graphics/pokemon/possumthree/overworld_shiny.gbapal.lz");
+#endif
+
+#if P_FAMILY_SNAKEONE
+    const u32 gObjectEventPic_Snakeone[] = INCBIN_COMP("graphics/pokemon/snakeone/overworld.4bpp");
+    const u32 gMonFrontPic_Snakeone[] = INCBIN_U32("graphics/pokemon/snakeone/anim_front.4bpp.lz");
+    const u32 gMonBackPic_Snakeone[] = INCBIN_U32("graphics/pokemon/snakeone/back.4bpp.lz");
+    const u32 gMonPalette_Snakeone[] = INCBIN_U32("graphics/pokemon/snakeone/normal.gbapal.lz");
+    const u32 gMonShinyPalette_Snakeone[] = INCBIN_U32("graphics/pokemon/snakeone/shiny.gbapal.lz");
+    const u8 gMonIcon_Snakeone[] = INCBIN_U8("graphics/pokemon/snakeone/icon.4bpp");
+    const u8 gMonFootprint_Snakeone[] = INCBIN_U8("graphics/pokemon/snakeone/footprint.1bpp");
+    const u32 gOverworldPalette_Snakeone[] = INCBIN_U32("graphics/pokemon/snakeone/overworld_normal.gbapal.lz");
+    const u32 gShinyOverworldPalette_Snakeone[] = INCBIN_U32("graphics/pokemon/snakeone/overworld_shiny.gbapal.lz");
+
+    const u32 gObjectEventPic_Snaketwo[] = INCBIN_COMP("graphics/pokemon/snaketwo/overworld.4bpp");
+    const u32 gMonFrontPic_Snaketwo[] = INCBIN_U32("graphics/pokemon/snaketwo/anim_front.4bpp.lz");
+    const u32 gMonBackPic_Snaketwo[] = INCBIN_U32("graphics/pokemon/snaketwo/back.4bpp.lz");
+    const u32 gMonPalette_Snaketwo[] = INCBIN_U32("graphics/pokemon/snaketwo/normal.gbapal.lz");
+    const u32 gMonShinyPalette_Snaketwo[] = INCBIN_U32("graphics/pokemon/snaketwo/shiny.gbapal.lz");
+    const u8 gMonIcon_Snaketwo[] = INCBIN_U8("graphics/pokemon/snaketwo/icon.4bpp");
+    const u8 gMonFootprint_Snaketwo[] = INCBIN_U8("graphics/pokemon/snaketwo/footprint.1bpp");
+    const u32 gOverworldPalette_Snaketwo[] = INCBIN_U32("graphics/pokemon/snaketwo/overworld_normal.gbapal.lz");
+    const u32 gShinyOverworldPalette_Snaketwo[] = INCBIN_U32("graphics/pokemon/snaketwo/overworld_shiny.gbapal.lz");
+
+    const u32 gObjectEventPic_Snakethree[] = INCBIN_COMP("graphics/pokemon/snakethree/overworld.4bpp");
+    const u32 gMonFrontPic_Snakethree[] = INCBIN_U32("graphics/pokemon/snakethree/anim_front.4bpp.lz");
+    const u32 gMonBackPic_Snakethree[] = INCBIN_U32("graphics/pokemon/snakethree/back.4bpp.lz");
+    const u32 gMonPalette_Snakethree[] = INCBIN_U32("graphics/pokemon/snakethree/normal.gbapal.lz");
+    const u32 gMonShinyPalette_Snakethree[] = INCBIN_U32("graphics/pokemon/snakethree/shiny.gbapal.lz");
+    const u8 gMonIcon_Snakethree[] = INCBIN_U8("graphics/pokemon/snakethree/icon.4bpp");
+    const u8 gMonFootprint_Snakethree[] = INCBIN_U8("graphics/pokemon/snakethree/footprint.1bpp");
+    const u32 gOverworldPalette_Snakethree[] = INCBIN_U32("graphics/pokemon/snakethree/overworld_normal.gbapal.lz");
+    const u32 gShinyOverworldPalette_Snakethree[] = INCBIN_U32("graphics/pokemon/snakethree/overworld_shiny.gbapal.lz");
+#endif
+
+
+#if P_FAMILY_SALYNX
+    const u32 gObjectEventPic_Salynx[] = INCBIN_COMP("graphics/pokemon/salynx/overworld.4bpp");
+    const u32 gMonFrontPic_Salynx[] = INCBIN_U32("graphics/pokemon/salynx/anim_front.4bpp.lz");
+    const u32 gMonBackPic_Salynx[] = INCBIN_U32("graphics/pokemon/salynx/back.4bpp.lz");
+    const u32 gMonPalette_Salynx[] = INCBIN_U32("graphics/pokemon/salynx/normal.gbapal.lz");
+    const u32 gMonShinyPalette_Salynx[] = INCBIN_U32("graphics/pokemon/salynx/shiny.gbapal.lz");
+    const u8 gMonIcon_Salynx[] = INCBIN_U8("graphics/pokemon/salynx/icon.4bpp");
+    const u8 gMonFootprint_Salynx[] = INCBIN_U8("graphics/pokemon/salynx/footprint.1bpp");
+    const u32 gOverworldPalette_Salynx[] = INCBIN_U32("graphics/pokemon/salynx/overworld_normal.gbapal.lz");
+    const u32 gShinyOverworldPalette_Salynx[] = INCBIN_U32("graphics/pokemon/salynx/overworld_shiny.gbapal.lz");
+#endif
+
+
     const u32 gMonFrontPic_Egg[] = INCBIN_U32("graphics/pokemon/egg/anim_front.4bpp.lz");
     const u32 gMonPalette_Egg[] = INCBIN_U32("graphics/pokemon/egg/normal.gbapal.lz");
     const u8 gMonIcon_Egg[] = INCBIN_U8("graphics/pokemon/egg/icon.4bpp");

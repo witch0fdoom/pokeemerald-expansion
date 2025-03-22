@@ -6301,3 +6301,55 @@ static const u16 sFrigibaxEggMoveLearnset[] = {
     MOVE_UNAVAILABLE,
 };
 #endif //P_FAMILY_FRIGIBAX
+
+#if P_FAMILY_RACCOONONE
+static const u16 sRaccoononeEggMoveLearnset[] = {
+    MOVE_ALLY_SWITCH,
+    MOVE_DESTINY_BOND,
+    MOVE_DISABLE,
+    MOVE_HOWL,
+    MOVE_MEMENTO,
+    MOVE_SHADOW_SNEAK,
+    MOVE_YAWN,
+    MOVE_UNAVAILABLE,
+};
+#endif
+
+#if P_FAMILY_POSSUMONE
+static const u16 sPossumoneEggMoveLearnset[] = {
+    MOVE_ALLY_SWITCH,
+    MOVE_DESTINY_BOND,
+    MOVE_DISABLE,
+    MOVE_HOWL,
+    MOVE_MEMENTO,
+    MOVE_SHADOW_SNEAK,
+    MOVE_YAWN,
+    MOVE_UNAVAILABLE,
+};
+#endif
+
+#if P_FAMILY_SNAKEONE
+static const u16 sSnakeoneEggMoveLearnset[] = {
+    MOVE_ALLY_SWITCH,
+    MOVE_DESTINY_BOND,
+    MOVE_DISABLE,
+    MOVE_HOWL,
+    MOVE_MEMENTO,
+    MOVE_SHADOW_SNEAK,
+    MOVE_YAWN,
+    MOVE_UNAVAILABLE,
+};
+#endif
+
+#if P_FAMILY_SALYNX
+static const u16 sSalynxEggMoveLearnset[] = {
+    MOVE_ALLY_SWITCH,
+    MOVE_DESTINY_BOND,
+    MOVE_DISABLE,
+    MOVE_HOWL,
+    MOVE_MEMENTO,
+    MOVE_SHADOW_SNEAK,
+    MOVE_YAWN,
+    MOVE_UNAVAILABLE,
+};
+#endif

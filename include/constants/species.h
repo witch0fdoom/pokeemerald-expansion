@@ -1637,8 +1637,18 @@
 #define SPECIES_URSHIFU_RAPID_STRIKE_STYLE_GMAX         SPECIES_URSHIFU_RAPID_STRIKE_GMAX
 #define SPECIES_MIMIKYU_BUSTED_TOTEM                    1523
 #define SPECIES_MIMIKYU_TOTEM_BUSTED                    SPECIES_MIMIKYU_BUSTED_TOTEM
+#define SPECIES_RACCOONONE                              1524
+#define SPECIES_RACCOONTWO                              1525
+#define SPECIES_RACCOONTHREE                            1526
+#define SPECIES_POSSUMONE                               1527
+#define SPECIES_POSSUMTWO                               1528
+#define SPECIES_POSSUMTHREE                             1529
+#define SPECIES_SNAKEONE                                1530
+#define SPECIES_SNAKETWO                                1531
+#define SPECIES_SNAKETHREE                              1532
+#define SPECIES_SALYNX                                  1533
 
-#define SPECIES_EGG                                     (SPECIES_MIMIKYU_BUSTED_TOTEM + 1)
+#define SPECIES_EGG                                     (SPECIES_SALYNX + 1)
 
 #define NUM_SPECIES SPECIES_EGG
 
